@@ -1,1 +1,1 @@
-## Practica de git basico
+## Practica de git basico del escritorio
