@@ -1,6 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows
-
+ssh-copy-id root@IP_servidor
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
@@ -10,6 +10,7 @@ ehthumbs_vista.db
 
 carpetaignorada/**
 *.carpetaignorada
+
 
 # Dump file
 *.stackdump
