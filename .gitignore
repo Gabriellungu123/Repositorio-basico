@@ -1,10 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows
 
-#Quitar el secret
-#Para que lo tenga dentro de una carpeta llamado secret no se suba 
-secret/## 
-#Para los archivos que tenga su extension
+secret/** */
 *.secret
 
 
