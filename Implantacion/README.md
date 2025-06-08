@@ -1,3 +1,3 @@
 ## Practica de git basico del escritorio
 
-# Esto lo hice el sababado primero subo este
+# Esto lo hice el sabasdo
