@@ -1,22 +1,16 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows
-
-
-
-implantacion/**
-
-
-secret/** 
-*.secret
-
-secreto/**
-
+ssh-copy-id root@IP_servidor
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
+
+carpetaignorada/**
+*.carpetaignorada
+
 
 # Dump file
 *.stackdump
@@ -37,3 +31,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# End of https://www.toptal.com/developers/gitignore/api/windows
